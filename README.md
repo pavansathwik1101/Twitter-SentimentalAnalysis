@@ -1,5 +1,5 @@
 # Twitter-SentimentalAnalysis
-Here we are using exisiting dataset from kaggle to train the model for classifying tweets into positive negative neutral.
+Here we are using exisiting dataset from kaggle to train the model for classifying tweets into positive negative neutral.\n
 we are using 3 different algorithms to train the model
      - Bernoulli Naive Bayes
      - Support Vector Machine
